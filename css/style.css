@@ -8,3 +8,11 @@ body{
 .navigation{
     font-weight: 800;
 }
+
+/* package section */
+.round-border{
+    border-radius: 10px;
+}
+.btn-lightpink{
+    background-color: #dba1c67c;
+}
